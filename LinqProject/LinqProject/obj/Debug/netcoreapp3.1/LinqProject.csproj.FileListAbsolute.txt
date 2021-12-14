@@ -1,0 +1,14 @@
+D:\bridgelabz\.NET problems\LinqProject\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.csproj.AssemblyReference.cache
+D:\bridgelabz\.NET problems\LinqProject\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\.NET problems\LinqProject\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.AssemblyInfoInputs.cache
+D:\bridgelabz\.NET problems\LinqProject\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.AssemblyInfo.cs
+D:\bridgelabz\.NET problems\LinqProject\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.csproj.CoreCompileInputs.cache
+D:\bridgelabz\.NET problems\LinqProject\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.exe
+D:\bridgelabz\.NET problems\LinqProject\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.deps.json
+D:\bridgelabz\.NET problems\LinqProject\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.runtimeconfig.json
+D:\bridgelabz\.NET problems\LinqProject\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.runtimeconfig.dev.json
+D:\bridgelabz\.NET problems\LinqProject\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.dll
+D:\bridgelabz\.NET problems\LinqProject\LinqProject\bin\Debug\netcoreapp3.1\LinqProject.pdb
+D:\bridgelabz\.NET problems\LinqProject\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.dll
+D:\bridgelabz\.NET problems\LinqProject\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.pdb
+D:\bridgelabz\.NET problems\LinqProject\LinqProject\obj\Debug\netcoreapp3.1\LinqProject.genruntimeconfig.cache
